@@ -1,11 +1,11 @@
 const protectedOwners = [
-  '8294868853',
-  '18096758983',
-  '526671548329'
+  '50492777136',
+  '50492777136',
+  '50492777136'
 ];
 
 const newsletterJid  = '120363335626706839@newsletter';
-const newsletterName = '⏤͟͞ू⃪፝͜⁞⟡『 Ruby-Hoshino-Channel 』࿐⟡';
+const newsletterName = '⏤͟͞ू⃪፝͜⁞⟡『 Goku-Bot-Channel 』࿐⟡';
 
 const handler = async (m, { conn, text, args, usedPrefix, command }) => {
   try {
