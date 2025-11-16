@@ -5,33 +5,33 @@ async function handler(m, { conn }) {
 
   const contactos = [
     {
-      numero: '18294868853',
-      nombre: '⏤͟͞ू⃪ ፝͜⁞𝘿𝙞𝙤𝙣𝙚𝙞𝙗𝙞-ʳⁱᵖ ִֶ ࣪˖ ִֶָ👑་༘',
+      numero: '50492777136',
+      nombre: '⏤͟͞ू⃪ ፝͜⁞𝘿𝙞𝙤𝙣𝙚𝙞𝙗𝙞-adrien ִֶ ࣪˖ ִֶָ👑་༘',
       cargo: 'Dueño Principal',
       nota: 'Creador del Bot',
-      correo: 'selinapasena@gmail.com',
-      region: '🇩🇴 República Dominicana',
-      web: 'https://github.com/Dioneibi-rip',
+      correo: 'Adrienoficial21@gmail.com',
+      region: '🇭🇳 HONDURAS',
+      web: 'https://github.com/Adrienoficial/Goku-Bot.git',
       biografia: await conn.fetchStatus('18294868853@s.whatsapp.net').then(res => res.status).catch(_ => 'Sin biografía')
     },
     {
-      numero: '18096758983',
-      nombre: '⟆⃝༉⃟⸙ ᯽ N͙e͙v͙i͙-D͙e͙v͙ ⌗⚙️࿐',
+      numero: '50492777136',
+      nombre: '⟆⃝༉⃟⸙ ᯽ Adrien ⌗⚙️࿐',
       cargo: 'Desarrollador y ayudante',
       nota: 'Soporte Técnico',
       correo: 'sin información',
-      region: '🇩🇴 República Dominicana',
-      web: 'https://github.com/nevi-dev',
+      region: '🇭🇳 HONDURAS ',
+      web: 'https://github.com/Adrienoficial/Goku-Bot.git',
       biografia: await conn.fetchStatus('18096758983@s.whatsapp.net').then(res => res.status).catch(_ => 'Sin biografía')
     },
     {
-      numero: '5216671548329',
+      numero: '50492777136',
       nombre: '⏤͟͞ू⃪ ꒰˘͈ᵕ ˘͈ 𝑳𝒆𝒈𝒏𝒂-𝒄𝒉𝒂𝒏 🪽 ꒱𖦹',
       cargo: 'Co-Desarrolladora y contribudora',
       nota: 'soporte y editor',
       correo: 'sin información',
-      region: '🇲🇽 México',
-      web: 'https://github.com/Legna-chan',
+      region: '🇭🇳 HONDURAS',
+      web: 'https://github.com/Adrienoficial/Goku-Bot.git',
       biografia: await conn.fetchStatus('5216671548329@s.whatsapp.net').then(res => res.status).catch(_ => 'Sin biografía')
     }
   ]
