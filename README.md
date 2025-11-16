@@ -27,7 +27,7 @@
 > Úsalo bajo tu propio riesgo teniendo en cuenta esta advertencia.
 
 
-> **`Ruby Hoshino - Bot`** Es una versión **personalizada del trabajo original de [Yuki Wa Bot](https://github.com/The-King-Destroy/YukiBot-MD)**, Modificado por **[Dioneibi-rip](https://github.com/Dioneibi-rip)**.  
+> **`Goku - Bot`** Es una versión **personalizada del trabajo original de [Yuki Wa Bot](https://github.com/The-King-Destroy/YukiBot-MD)**, Modificado por **[Adrien-ad](https://github.com/Dioneibi-rip)**.  
  ¡Úsalo con responsabilidad y diviértete! 💖
 
 -----
@@ -144,7 +144,7 @@ npm start
 
 ---
 
-🪻 **`Ruby 24/7 (TERMUX)`**
+🪻 **`Goku 24/7 (TERMUX)`**
 
 <details>
 <summary><b>🐝 VER COMANDOS</b></summary>
@@ -156,7 +156,7 @@ termux-wake-lock && npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 </details>
 
 
-🩷 **`ACTUALIZACION A LA BOT (TERMUX) `**
+🩷 **`ACTUALIZACION A El BOT (TERMUX) `**
 > Comandos para actualizar a Ruby-Bot de forma automática
 
 <details>
